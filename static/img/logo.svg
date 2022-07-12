@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 150.7 48.8" style="enable-background:new 0 0 150.7 48.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#2487CA;enable-background:new    ;}
+	.st2{fill:#157FB8;}
+	.st3{fill:none;}
+	.st4{fill:#272828;}
+	.st5{font-family:'Roboto-Medium';}
+	.st6{font-size:27px;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1091.9263" y1="38.4683" x2="-1090.9263" y2="38.4683" gradientTransform="matrix(40.649 0 0 24.417 44385.707 -902.681)">
+	<stop  offset="7.000001e-03" style="stop-color:#3CB5FB"/>
+	<stop  offset="1" style="stop-color:#0071FF"/>
+</linearGradient>
+<path class="st0" d="M40.6,36.8L18.4,24.4L0,35.5l20.6,13.3L40.6,36.8z"/>
+<path class="st1" d="M40.6,36.8L18.4,24.4L0,35.5l20.6,13.3L40.6,36.8z"/>
+<g transform="translate(-4.36 31.34)">
+	<path class="st2" d="M44.2-19.7L25.1-31.3L4.5-17.9v22C4.5,4.1,44.2-19.7,44.2-19.7z"/>
+</g>
+<rect x="45.8" y="13" class="st3" width="98.4" height="35.8"/>
+<text transform="matrix(1 0 0 1 45.7983 33.2372)" class="st4 st5 st6">Halnode</text>
+</svg>
